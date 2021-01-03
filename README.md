@@ -1,5 +1,6 @@
 <!--
 **sumitmann/sumitmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 ### Hi there, my name is Sumit Mann! 👋
 
@@ -19,5 +20,3 @@
 ### How to Reach Me
 - 📬 Email: sumitmann93@gmail.com
 - 👤 LinkedIn: https://www.linkedin.com/in/sumitmann/
-
--->
