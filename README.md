@@ -14,7 +14,7 @@
 - 😎 Fun fact: I love playing and collabrating online games with friens and randoms. I am secretly working on a project for gamers.
 
 ### GitHub Stats 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sumitmann&theme=mediumcontrast&show_icons=true&count_private=true&layout=compact&bg_color=#ee7752,#e73c7e,#23a6d5,#23d5ab)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sumitmann&show_icons=true&count_private=true&layout=compact&bg_color=45,ee7752,e73c7e,23a6d5,23d5ab&title_color=fff&text_color=fff)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmann&layout=compact&theme=mediumcontrast)
 
 ### How to Reach Me
