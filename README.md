@@ -5,7 +5,7 @@
 ### Hi there, my name is Sumit Mann! 👋
 
 ### About Me 
-- 👨 I am a Front end develop
+- 👨 I am a Front end developer
 - 💻 I am working as Associate Lead Software Engineer at Monotype Solutions India Pvt. Ltd.
 
 ### What I'm Up To 
