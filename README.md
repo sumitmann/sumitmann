@@ -2,7 +2,7 @@
 **sumitmann/sumitmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there, my name is Sumit Mann! 👋
+👋 ### Hi there, my name is Sumit Mann!
 
 ### About Me 
 - 👨 I am a Front end developer
