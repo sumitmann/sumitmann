@@ -15,7 +15,7 @@
 
 ### GitHub Stats 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sumitmann&show_icons=true&count_private=true&layout=compact&bg_color=45,23a6d5,23d5ab&title_color=fff&text_color=fff&icon_color=fff)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmann&layout=compact&theme=mediumcontrast)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmann&layout=compact&theme=mediumcontrast&langs_count=10)
 
 ### How to Reach Me
 - 📬 Email: sumitmann93@gmail.com
