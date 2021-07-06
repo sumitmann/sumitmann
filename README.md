@@ -11,7 +11,7 @@
 ### What I'm Up To 
 - 🌱 I’m currently learning AWS, REACT, WEB-COMPONENTS, STENCIL.JS, FLUTTER...
 - 🔭 I’m looking to collaborate with like minided professionals who wants to work on solving real time problem and bridge the gaps with technology 
-- 😎 Fun fact: I love collaborating and playing online games with friends and randoms. I am secretly working on a project for gamers.
+- 😎 Fun fact: I love collaborating and playing online games with friends and randoms.
 
 ### GitHub Stats 
 ![Sumit Mann's Github stats](https://github-readme-stats.vercel.app/api?username=sumitmann&show_icons=true&count_private=true&layout=compact&bg_color=45,23a6d5,23d5ab&title_color=fff&text_color=fff&icon_color=fff)
