@@ -6,7 +6,7 @@
 
 ### About Me 
 - 👨 I am a Front end developer
-- 💻 I am working as Associate Lead Software Engineer at Monotype Solutions India Pvt. Ltd.
+- 💻 I am working as Lead Software Engineer at Monotype Solutions India Pvt. Ltd.
 
 ### What I'm Up To 
 - 🌱 I’m currently learning AWS, REACT, WEB-COMPONENTS, STENCIL.JS, FLUTTER...
